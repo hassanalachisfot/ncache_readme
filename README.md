@@ -60,4 +60,6 @@ Explains how you can plug-in NCache to your existing NHibernate application to u
 #### [Entity Framework Integration](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/entity-framework.html)
 Describes how to plug Entity Framework caching provider with NCache.
 
-See more details at http://www.alachisoft.com.
+## License
+NCache Open Source is released under the Apache License, Version 2.0
+See more details at http://www.alachisoft.com/download-ncache.html#ncache
