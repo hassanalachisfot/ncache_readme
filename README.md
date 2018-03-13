@@ -56,10 +56,8 @@ Compare various editions available. Enterprise Edition vs Community Edition vs O
 # NCache Cloud
 Get NCache for your AWS or Azure applications. 
 
-![NCache for AWS](https://dwixurqketmvw.cloudfront.net/084a76286225bca52a93c25532e84649baac3776/static/default/images/icon-cloud-aws.png)
 [NCache for AWS](https://aws.amazon.com/marketplace/pp/B00TKKWIV0)
 
-![NCache for Azure](https://miteshc.files.wordpress.com/2014/03/windows_azure1.jpg)
 [NCache for Azure](https://azuremarketplace.microsoft.com/en-in/marketplace/apps/alachisoft.ncache_enterprise_byol_azure?tab=Overview)
 
 
