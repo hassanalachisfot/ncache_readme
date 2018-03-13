@@ -53,6 +53,13 @@ Provides steps to create cache using either NCache Manager or through Command Li
 ## [Edition Comparison](http://www.alachisoft.com/ncache/edition-comparison.html)
 Compare various editions available. Enterprise Edition vs Community Edition vs Open Source Edition.
 
+# NCache Cloud
+Get NCache for your AWS or Azure applications. 
+
+[NCache for AWS](https://aws.amazon.com/marketplace/pp/B00TKKWIV0)
+[NCache for Azure](https://azuremarketplace.microsoft.com/en-in/marketplace/apps/alachisoft.ncache_enterprise_byol_azure?tab=Overview)
+
+
 ## License
 NCache Open Source is released under the Apache License, Version 2.0
 See more details at http://www.alachisoft.com/download-ncache.html#ncache
