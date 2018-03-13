@@ -32,33 +32,26 @@ NCache is used by hundreds of companies all over the world in mission critical a
 
 ## Getting Started
 
+### [Installation Guide](http://www.alachisoft.com/resources/docs/ncache-com/install-guide/)
+Step-by-step guide about how to install NCache for Community and Open Source editions, and to configure your environment accordingly.
 
-#### [Setting up NCache Environment](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/set-up-ncache-environment.html)
+### [Admin Guide](http://www.alachisoft.com/resources/docs/ncache-com/admin-guide/)
+Perform administrative tasks on caches using configuration files for NCache Community and Open Source Editions.
+
+### [Programmers Guide](http://www.alachisoft.com/resources/docs/ncache/prog-guide/)
+Use various features of NCache in .NET to develop high performance and scalable applications.
+
+### [Dockers Guide](http://www.alachisoft.com/resources/docs/ncache-com/install-guide/installation-for-docker.html)
+Docker image and Dockerfile with NCache environment to allow seamless building of NCache applications and managing cache clusters.
+
+### [Setting up NCache Environment](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/set-up-ncache-environment.html)
 Describes basic steps to set up NCache Environment for utilization of NCache API and features.
 
-#### [Create Cache](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/create-cache.html)
+### [Create Cache](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/create-cache.html)
 Provides steps to create cache using either NCache Manager or through Command Line tools.
 
-#### [NCache API Caching](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/api-caching.html)
-Describes most common APIs provided by NCache with examples for .NET users.
-
-#### [ASP.NET Session State](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/aspnet-session-state.html)
-Explains how to configure and manage ASP.NET Sessions with NCache and its respective extensions.
-
-#### [ASP.NET Core Session](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/aspnet-core-session.html)
-Explains how to configure and manage ASP.NET Core Sessions with NCache and its respective extensions.
-
-#### [ASP.NET View State](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/aspnet-view-state.html)
-Explains how to use View State Caching and content optimization feature of NCache.
-
-#### [ASP.NET Output Cache](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/aspnet-output-cache.html)
-Shows how to use output caching to cache the HTML output of dynamic requests to ASP.NET pages, hence speeding up the overall response process.
-
-#### [NHibernate](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/nhibernate.html)
-Explains how you can plug-in NCache to your existing NHibernate application to use NCache with NHibernate.
-
-#### [Entity Framework Integration](http://www.alachisoft.com/resources/docs/ncache/getting-started-guide/entity-framework.html)
-Describes how to plug Entity Framework caching provider with NCache.
+## [Edition Comparison](http://www.alachisoft.com/ncache/edition-comparison.html)
+Compare various editions available. Enterprise Edition vs Community Edition vs Open Source Edition.
 
 ## License
 NCache Open Source is released under the Apache License, Version 2.0
