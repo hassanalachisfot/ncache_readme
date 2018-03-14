@@ -45,16 +45,17 @@ Use various features of NCache in .NET to develop high performance and scalable 
 Docker image and Dockerfile with NCache environment to allow seamless building of NCache applications and managing cache clusters.
 
 
+
 ## [Edition Comparison](http://www.alachisoft.com/ncache/edition-comparison.html)
 Compare various editions available. Enterprise Edition vs Community Edition vs Open Source Edition.
 
 # NCache Cloud
 Get NCache for your AWS or Azure applications. 
 
+![NCache for AWS](https://dwixurqketmvw.cloudfront.net/084a76286225bca52a93c25532e84649baac3776/static/default/images/icon-cloud-aws.png)
 [NCache for AWS](https://aws.amazon.com/marketplace/pp/B00TKKWIV0)
-
-
-[NCache for Azure](https://azuremarketplace.microsoft.com/en-in/marketplace/apps/alachisoft.ncache_enterprise_byol_azure?tab=Overview)
+![NCache for Azure](https://www.centilytics.com/wp-content/uploads/2018/02/Azure_.png)
+[NCache Enterprise for Azure | BYOL](https://azuremarketplace.microsoft.com/en-in/marketplace/apps/alachisoft.ncache_enterprise_byol_azure?tab=Overview)
 
 
 ## License
