@@ -50,9 +50,11 @@ Docker image and Dockerfile with NCache environment to allow seamless building o
 Compare various editions available. Enterprise Edition vs Community Edition vs Open Source Edition.
 
 # NCache Cloud
+
 Get NCache for your AWS or Azure applications. 
 
 [NCache for AWS](https://aws.amazon.com/marketplace/pp/B00TKKWIV0)
+
 [NCache Enterprise for Azure | BYOL](https://azuremarketplace.microsoft.com/en-in/marketplace/apps/alachisoft.ncache_enterprise_byol_azure?tab=Overview)
 
 
